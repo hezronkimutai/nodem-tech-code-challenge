@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.like-button {
+  font-size: 1rem;
+  padding: 5px 10px;
+  color: #585858;
+}
+.liked {
+  font-weight: bold;
+  color: #1565c0;
+}
+.like-counter {
+  border-left: solid 2px;
+  padding: 0px 0px 0px 7px;
+  margin: 0px 0px 0px 7px;
+}
